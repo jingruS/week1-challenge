@@ -6,5 +6,5 @@ I want a database that follows accessibility standards so that
 our own site is optimized for search engines.
 
 As a bootcamp students,
-I have justified HTML files to meet the indutrial accessibility. 
-I have add max-width to CSS to adjust the image sizes. 
+I have justified HTML files to meet the accessibility. 
+I have add max-width to CSS to adjust the image size. 
